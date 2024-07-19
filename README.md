@@ -1,5 +1,5 @@
 # student-CGPA
-This program has been written by using C++. in (.\vscode) folder there are some .json configuration files which can help you to compile .cpp project in vscode easily.
+The code is a C++ program that allows users to enter information about multiple courses, including each course's name, score, and weight. It then calculates the value of each course (score multiplied by weight) and outputs all the entered data. Additionally, it creates a CSV file to save this information along with the average score for the courses. The program demonstrates basic input/output operations, data storage using vectors and maps, and file handling in C++.
 
 ### Explanation of the Code
 
